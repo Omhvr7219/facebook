@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-02T17:26:37 IST" name="Default suite" finished-at="2023-01-02T17:26:53 IST" duration-ms="15712">
+    <groups>
+    </groups>
+    <test started-at="2023-01-02T17:26:37 IST" name="Default test" finished-at="2023-01-02T17:26:53 IST" duration-ms="15712">
+      <class name="login_test.login_test_class">
+        <test-method is-config="true" signature="openfb()[pri:0, instance:login_test.login_test_class@72967906]" started-at="2023-01-02T17:26:37 IST" name="openfb" finished-at="2023-01-02T17:26:48 IST" duration-ms="11031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfb -->
+        <test-method is-config="true" signature="enter_details()[pri:0, instance:login_test.login_test_class@72967906]" started-at="2023-01-02T17:26:48 IST" name="enter_details" finished-at="2023-01-02T17:26:52 IST" duration-ms="3956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_details -->
+        <test-method signature="submit()[pri:0, instance:login_test.login_test_class@72967906]" started-at="2023-01-02T17:26:52 IST" name="submit" finished-at="2023-01-02T17:26:53 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+      </class> <!-- login_test.login_test_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
